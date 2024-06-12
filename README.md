@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hexstars</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">Nothing to see here yet</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexstars&label=Profile%20views&color=0e75b6&style=flat" alt="hexstars" /> </p>
 
